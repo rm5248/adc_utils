@@ -18,6 +18,8 @@ When running on a micocontroller, you should know everything except the analog v
 
 ## Voltage Divider calculation
 
+https://ohmslawcalculator.com/voltage-divider-calculator
+
 Formula:
 
 ```
